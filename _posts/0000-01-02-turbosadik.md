@@ -1,6 +1,6 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: what is layout?
+title: "Why title"
 ---
-Your text
-Use the left arrow to go back!
+my text ok.
+Use the left arrow to go back! hmmm
